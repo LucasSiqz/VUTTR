@@ -10,7 +10,7 @@ module.exports = {
     },
     license: {
       name: 'MIT',
-      url: 'https://www.github.com/lucassiqz/bossabox-challenge',
+      url: 'https://github.com/LucasSiqz/Desafio-Backend/blob/master/LICENSE',
     },
   },
   servers: [
